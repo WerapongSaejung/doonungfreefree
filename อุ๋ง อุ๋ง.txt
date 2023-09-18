@@ -29,91 +29,91 @@
   {
 	"name":"🦭การ์ตูน🐒", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
-	"url":"PB72S",
+	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/การ์ตูน/การ์ตูน.txt",
 	"import":"true"
   },
   {
 	"name":"🦭123-HD🐒", 
 	"image":"https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
-	"url":"Liz61",
+	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/123HD/123hd.txt",
 	"import":"true"
   },
   {
 	"name":"🦭Dooseries4k🐒", 
 	"image":"https://www.dooseries4k.com/wp-content/themes/dooseries4k/logo/logo.png",
-	"url":"5IxIA",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/DooSeries4K/รวม.txt",
 	"import":"true"
   },
   {
 	"name":"🦭7yup🐒", 
 	"image":"https://7yup.net/wp-content/uploads/2022/06/LOGO-TEST.webp",
-	"url":"8cVdS",
+	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/7yup.net/รวม.txt",
 	"import":"true"
   },
   {
 	"name":"🦭FW4FREE🐒", 
 	"image":"https://fw4free.com/images/logo7.png",
-	"url":"Expp",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/FW4FREE/FW4FREE.w3u",
 	"import":"true"
   },
   {
 	"name":"🦭TVAllseries🐒", 
 	"image":"https://tvallseries.com/wp-content/uploads/2021/01/logotvseries.png",
-	"url":"3N32",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/TvAllSeries/all.m3u",
 	"import":"true"
   },
   {
 	"name":"🦭Watchlakorn.in🐒", 
 	"image":"https://cdn.watchlakorn.in/images/video_logo.png",
-	"url":"48gno",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/Watchlakorn.in/แยกประเภท.txt",
 	"import":"true"
   },
   {
 	"name":"X10MOVIES4K",
 	"image":"https://x10movies4k.com/wp-content/uploads/2023/05/logo2.png",
-	"url":"3PK2h",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/x10movies4k/x10.txt",
 	"import":"true"
   },
   {
 	"name":"🦭nung2hdd🐒", 
 	"image":"https://www.nung2hdd.com/wp-content/uploads/2018/04/logo2hd.png",
-	"url":"3rdMl",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/Nung2hdd/รวม.txt",
 	"import":"true"
   },
   {
 	"name":"🦭Series-Indy🐒", 
 	"image":"https://i0.wp.com/series-indy.com/wp-content/uploads/2023/01/series1111.png",
-	"url":"3Ppk2",
+	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/Series-Indy/0รวมseries-indy.w3u",
 	"import":"true"
   },
   {
 	"name":"SERIESHD24",
 	"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeE5Od9wala1kDqzr-lGxX4BNM1-nm7R96_VU9MSstYX-1XrwqKTK4Ht1ueFvS-ILuCnrTeetVy1rWagKkeL4bPNWHgfqrI3qHL2vJTS-_Jtc7lzelDjii1tQdDArcMrkZnbMhzXy2aBsD8i3sBfAo6puxoS7Ok0J--rAeQVttZJ5RBtmQbze7hIXT-w/w640-h132/6a2dsg9p.png",
-	"url":"3GbwC",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/Serieshd24/serieshd24.txt",
 	"import":"true"
   },
   {
 	"name":"mee-series",
 	"image":"https://www.mee-series.com/uploads/9d5e28069d3139632d817ef275b253ac.jpg",
-	"url":"3sR8D",
+	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/mee-series/รวมmee-series.txt",
 	"import":"true"
   },
   {
 	"name":"SERiESMY",
 	"image":"https://seriesmy.com/wp-content/uploads/2021/01/MSeries-logo-5.png",
-	"url":"3r2jB",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/SERiESMY/seriesmy.txt",
 	"import":"true"
   },
   {
 	"name":"Love-Series",
 	"image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ5AXLt0V56k3vE4VilvP4rhiV5fDQuuOj_tJKL75ldg_8J6oFtMhtQWNvAwwCQqZ1q3nMm_h68zIcxcZe8sCkQdnyq8y2biv2qFSle_ODaT8fgYAfP5b-35e334IQTyBskLTMjvst3uk_SLV8_Qf4_LjNHDkBlr3d5EBjN1Ndd49wHI3QQxWabK5AxoQ2/w640-h169/1.png",
-	"url":"3P9XR",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/Love-Series/ALL-love-series.w3u",
 	"import":"true"
   },
   {
 	"name":"037hdmovie",
 	"image":"https://www.037hdmovie.com/wp-content/uploads/2020/04/1588242378408.png",
-	"url":"3R1Fv",
+	"url": "https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/web/037hdmovie/รวม.w3u",
 	"import":"true"
   }
  ]
