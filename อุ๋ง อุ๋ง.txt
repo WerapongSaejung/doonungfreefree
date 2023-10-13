@@ -27,6 +27,12 @@
 	]
   },
   {
+	"name":"ขอมา ก็จัดให้", 
+	"image":"https://th.bing.com/th/id/OIP.mH4Ewbpm4B9xCj5M39WS7wHaCz?pid=ImgDet&rs=1",
+	"url":"https://br14.short.gy/wi2P9MVZhbKF",
+	"import":"true"
+  },
+  {
 	"name":"🦭การ์ตูน🐒", 
 	"image":"https://th.bing.com/th/id/OIP.tZyIDIzGlkyuUrwgP2Xp2gAAAA?pid=ImgDet&rs=1",
 	"url":"https://raw.githubusercontent.com/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/doonungfreefree/การ์ตูน/การ์ตูน.txt",
